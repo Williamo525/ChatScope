@@ -1,0 +1,26 @@
+altgraph 0.17.5: altgraph\altgraph-0.17.5.dist-info\LICENSE
+cffi 2.1.1: cffi\cffi-2.1.1.dist-info\licenses\LICENSE
+contourpy 1.3.3: contourpy\contourpy-1.3.3.dist-info\LICENSE
+cryptography 50.0.2: cryptography\cryptography-50.0.2.dist-info\licenses\LICENSE, cryptography\cryptography-50.0.2.dist-info\licenses\LICENSE.APACHE, cryptography\cryptography-50.0.2.dist-info\licenses\LICENSE.BSD
+cycler 0.12.1: cycler\cycler-0.12.1.dist-info\LICENSE
+fonttools 4.66.1: fonttools\fonttools-4.66.1.dist-info\licenses\LICENSE, fonttools\fonttools-4.66.1.dist-info\licenses\LICENSE.external
+jieba 0.42.1: See package metadata / upstream project
+kiwisolver 1.5.1: kiwisolver\kiwisolver-1.5.1.dist-info\licenses\LICENSE
+matplotlib 3.11.2: matplotlib\matplotlib-3.11.2.dist-info\LICENSE, matplotlib\matplotlib\mpl-data\fonts\ttf\LICENSE_DEJAVU, matplotlib\matplotlib\mpl-data\fonts\ttf\LICENSE_STIX
+numpy 2.4.6: numpy\numpy-2.4.6.dist-info\licenses\LICENSE.txt, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\include\numpy\libdivide\LICENSE.txt, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\src\common\pythoncapi-compat\COPYING, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\src\highway\LICENSE, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\src\multiarray\dragon4_LICENSE.txt, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\src\npysort\x86-simd-sort\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\_core\src\umath\svml\LICENSE, numpy\numpy-2.4.6.dist-info\licenses\numpy\fft\pocketfft\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\linalg\lapack_lite\LICENSE.txt, numpy\numpy-2.4.6.dist-info\licenses\numpy\ma\LICENSE, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\distributions\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\mt19937\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\pcg64\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\philox\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\sfc64\LICENSE.md, numpy\numpy-2.4.6.dist-info\licenses\numpy\random\src\splitmix64\LICENSE.md, numpy\numpy\_core\include\numpy\random\LICENSE.txt, numpy\numpy\ma\LICENSE, numpy\numpy\random\LICENSE.md
+packaging 26.3: packaging\packaging-26.3.dist-info\licenses\LICENSE, packaging\packaging-26.3.dist-info\licenses\LICENSE.APACHE, packaging\packaging-26.3.dist-info\licenses\LICENSE.BSD
+pefile 2024.8.26: pefile\pefile-2024.8.26.dist-info\LICENSE
+pillow 12.3.0: pillow\pillow-12.3.0.dist-info\licenses\LICENSE
+pip 24.0: pip\pip-24.0.dist-info\LICENSE.txt
+psutil 7.2.2: psutil\psutil-7.2.2.dist-info\LICENSE
+pycparser 3.0: pycparser\pycparser-3.0.dist-info\licenses\LICENSE
+pyinstaller 6.22.3: pyinstaller\pyinstaller-6.22.3.dist-info\licenses\COPYING.txt
+pyinstaller-hooks-contrib 2026.8: pyinstaller-hooks-contrib\pyinstaller_hooks_contrib-2026.8.dist-info\licenses\LICENSE
+pyparsing 3.3.3: pyparsing\pyparsing-3.3.3.dist-info\licenses\LICENSE
+python-dateutil 2.9.0.post0: python-dateutil\python_dateutil-2.9.0.post0.dist-info\LICENSE
+pywin32-ctypes 0.2.3: pywin32-ctypes\pywin32_ctypes-0.2.3.dist-info\LICENSE.txt
+setuptools 65.5.0: setuptools\setuptools-65.5.0.dist-info\LICENSE
+six 1.17.0: six\six-1.17.0.dist-info\LICENSE
+snownlp 0.12.3: snownlp\snownlp-0.12.3.dist-info\licenses\LICENSE.md
+wordcloud 1.9.6: wordcloud\wordcloud-1.9.6.dist-info\licenses\LICENSE
+zstandard 0.25.0: zstandard\zstandard-0.25.0.dist-info\licenses\LICENSE
